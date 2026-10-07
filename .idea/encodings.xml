@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/backend/src/main/java/com/ministock/controller/AdminController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/src/main/java/com/ministock/controller/AuthController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/src/main/java/com/ministock/controller/StockController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/src/main/java/com/ministock/controller/TradeController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/backend/src/main/java/com/ministock/controller/UserController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/src/main/java/com/ministock/service/AuthService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/src/main/java/com/ministock/service/StockService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/src/main/java/com/ministock/service/TradeService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/src/main/java/com/ministock/service/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend/src/views/AdminHome.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend/src/views/Login.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend/src/views/Register.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend/src/views/UserHome.vue" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
